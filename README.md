@@ -11,7 +11,7 @@ Hotel management is an option which can be used to manage the hotel in general. 
 
 - Add Employee
 - Remove Employee
-- Open/Close Hotel
+- Open/Close Hotel ( // )
 
 # Restaurant Management
 Restaurant management is an option which can be used to manage the hotel's restaurant. Here are the features which are available in this option:
