@@ -18,7 +18,7 @@ Restaurant management is an option which can be used to manage the hotel's resta
 
 - Add Server/Chef
 - View Servers/Chefs
-- Make Order
+- Make Order ( // )
 - View Order List
 
 # Room Management
