@@ -29,3 +29,7 @@ Room management is an option which can be used to assign room to guests based on
 # Location Finder
 Location finder is an option to find all of the hotel's location/s.
 
+
+# Figma Links :
+Mobile :
+https://www.figma.com/file/mjAjqQo0TmGdEb0rMiM0PI/Le---Hotelier?type=design&node-id=0%3A1&t=qnH74h4wU343Jmc7-1
