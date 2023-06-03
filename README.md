@@ -38,7 +38,9 @@ Room management is an option which can be used to assign room to guests based on
 ## Location Finder
 Location finder is an option to find all of the hotel's location/s.
 
-#How to use this app?
+# How to use this app?
 1. Login with the username: admin and password:150603
+![Login Screen](https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/5345c92c-6782-47e4-8134-edc2703255ad)
+
 2. Once you are logged in, you are greeted with the homepage.
 3. From there, feel free to choose the action you want to do when it comes to organizing your hotel.
