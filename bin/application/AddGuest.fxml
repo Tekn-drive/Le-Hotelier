@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ViewerController">
+   <children>
+      <ImageView fx:id="guestBack" fitHeight="1417.0" fitWidth="1992.0" layoutX="-39.0" layoutY="-39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Home%20Page.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="logo" fitHeight="197.0" fitWidth="486.0" layoutX="761.0" layoutY="44.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Le%20-%20Hotelier%20Managements.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="2054.0" layoutX="-103.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Room%20Management/Room%20Management.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="guestBack" fitHeight="48.0" fitWidth="47.0" layoutX="1.0" layoutY="282.0" onMouseClicked="#roomManagement" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Vector.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="addG" layoutX="791.0" layoutY="750.0" mnemonicParsing="false" onAction="#setGuest" prefHeight="71.0" prefWidth="398.0" style="-fx-background-radius: 8; -fx-background-color: #0a6c6d;" textFill="#0a6c6d">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Label layoutX="916.0" layoutY="765.0" text="Add Guest" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <TextField fx:id="name" alignment="CENTER" layoutX="656.0" layoutY="400.0" onAction="#getName" prefHeight="84.0" prefWidth="655.0" promptText="Guest Name" style="-fx-background-radius: 8;">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="roomType" alignment="CENTER" layoutX="656.0" layoutY="513.0" onAction="#getRoomType" prefHeight="84.0" prefWidth="655.0" promptText="Room Type" style="-fx-background-radius: 8;">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="nights" alignment="CENTER" layoutX="656.0" layoutY="626.0" onAction="#getNights" prefHeight="84.0" prefWidth="655.0" promptText="Nights" style="-fx-background-radius: 8;">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </TextField>
+      <Label fx:id="text" alignment="CENTER" layoutX="661.0" layoutY="850.0" prefHeight="62.0" prefWidth="665.0" textAlignment="CENTER">
+         <font>
+            <Font size="42.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
