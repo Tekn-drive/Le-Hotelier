@@ -1,9 +1,9 @@
-# Le-Hotelier
+# Le - Hotelier
 Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
 
 - Hotel Management:
 - Restaurant Management:
- ![Restaurant](https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/91ff0079-a03e-4707-bf60-50e4f2a65d8e)
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/fa6a0fb8-0a64-439e-b8e4-a3c160776cc6" alt="Image" style="width: 50%;">
 
 - Room Management:
 ![Room Management](https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/cffa7086-2808-4456-b986-fdfb31ca15f5)
@@ -37,6 +37,48 @@ Room management is an option which can be used to assign room to guests based on
 
 ## Location Finder
 Location finder is an option to find all of the hotel's location/s.
+
+# Imported Library List
+
+Scene Controller Class:
+- import java.io.IOException;
+- import javafx.event.ActionEvent;
+- import javafx.scene.control.*;
+- import javafx.scene.image.ImageView;
+- import javafx.scene.input.MouseEvent;
+- import javafx.scene.transform.Scale;
+- import javafx.scene.*;
+- import javafx.stage.*;
+- import javafx.fxml.*;
+- import java.awt.Dimension;
+- import java.awt.Toolkit;
+- import javafx.scene.paint.Color;
+
+Viewer Controller Class:
+- import javafx.scene.Parent;
+- import javafx.scene.Scene;
+- import javafx.scene.control.*;
+- import javafx.scene.image.ImageView;
+- import javafx.scene.input.MouseEvent;
+- import javafx.scene.transform.Scale;
+- import java.awt.Dimension;
+- import java.awt.Toolkit;
+- import java.io.IOException;
+- import java.util.ArrayList;
+- import javafx.stage.*;
+- import javafx.beans.property.ReadOnlyObjectWrapper;
+- import javafx.beans.property.SimpleStringProperty;
+- import javafx.collections.FXCollections;
+- import javafx.collections.ObservableList;
+- import javafx.event.ActionEvent;
+- import javafx.scene.control.cell.PropertyValueFactory;
+- import javafx.fxml.FXML;
+- import javafx.fxml.FXMLLoader;
+- import java.io.BufferedWriter;
+- import java.io.FileReader;
+- import java.io.FileWriter;
+- import java.nio.charset.StandardCharsets;
+- import java.io.BufferedReader;
 
 # How to use this app?
 1. Login with the username: admin and password:150603
