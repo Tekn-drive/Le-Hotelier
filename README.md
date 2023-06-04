@@ -1,4 +1,6 @@
 # Le - Hotelier
+**Note: Since some of the important configuration/setting files are hidden in GitHub, it is recommended to download the zip of this application which is provided in this repository for full access.**
+
 Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
 
 - Hotel Management:
