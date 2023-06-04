@@ -468,6 +468,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -480,6 +481,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -492,6 +494,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -504,6 +507,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -516,6 +520,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -528,6 +533,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -540,6 +546,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -552,6 +559,7 @@ public class ViewerController{
         root = loader.load();
         root.getTransforms().add(scale2);
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();

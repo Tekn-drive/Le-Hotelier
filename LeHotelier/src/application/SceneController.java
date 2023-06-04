@@ -80,7 +80,7 @@ public class SceneController{
 	private ImageView roomBack;
 	
 	String username,password;
-	String [] menuList = {"Capaccio Scallops","Beef Stroganof","Filet Mignon","Potted Crab","Pecel Lele", "Creamy Risotto","Grand Aioli","Caviar Fried Rice","Sugar Honey Iced Tea"};
+	
 	public void getUser(ActionEvent e) {
 		username=usernameTextField.getText();
 	}
@@ -95,6 +95,7 @@ public class SceneController{
 		    Scale scale = new Scale(screenWidth/1920,screenHeight/1080);
 		    root.getTransforms().add(scale);
 		    scene = new Scene(root);
+		    stage.setFullScreenExitHint("");
 		    stage.setFullScreen(true);
 		    stage.setScene(scene);
 		    stage.show();
@@ -111,6 +112,7 @@ public class SceneController{
 	    scale = new Scale(screenWidth/1920,screenHeight/1080);
 	    root.getTransforms().add(scale);
 	    scene = new Scene(root);
+	    stage.setFullScreenExitHint("");
 	    stage.setFullScreen(true);
 	    stage.setScene(scene);
 	    stage.show();
@@ -123,6 +125,7 @@ public class SceneController{
 	    scale = new Scale(screenWidth/1920,screenHeight/1080);
 	    root.getTransforms().add(scale);
 	    scene = new Scene(root);
+	    stage.setFullScreenExitHint("");
 	    stage.setFullScreen(true);
 	    stage.setScene(scene);
 	    stage.show();
@@ -137,6 +140,7 @@ public class SceneController{
         ViewerController mvc = loader.getController();
         mvc.showGuestTable();
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -150,6 +154,7 @@ public class SceneController{
 	    scale = new Scale(screenWidth/1920,screenHeight/1080);
 	    root.getTransforms().add(scale);
 	    scene = new Scene(root);
+	    stage.setFullScreenExitHint("");
 	    stage.setFullScreen(true);
 	    stage.setScene(scene);
 	    stage.show();
@@ -161,6 +166,7 @@ public class SceneController{
 		Scale scale = new Scale(screenWidth/1920,screenHeight/1080);
 		root.getTransforms().add(scale);
 		scene = new Scene(root);
+		stage.setFullScreenExitHint("");
 		stage.setFullScreen(true);
 		stage.setScene(scene);
 		stage.show();
@@ -176,6 +182,7 @@ public class SceneController{
         ViewerController mvc = loader.getController();
         mvc.showEmployeeTable();
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -188,6 +195,7 @@ public class SceneController{
 		Scale scale = new Scale(screenWidth/1920,screenHeight/1080);
 		root.getTransforms().add(scale);
 		scene = new Scene(root);
+		stage.setFullScreenExitHint("");
 		stage.setFullScreen(true);
 		stage.setScene(scene);
 		stage.show();
@@ -202,6 +210,7 @@ public class SceneController{
         ViewerController mvc = loader.getController();
         mvc.showChefTable();
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -216,6 +225,7 @@ public class SceneController{
         ViewerController mvc = loader.getController();
         mvc.showServerTable();
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -230,6 +240,7 @@ public class SceneController{
         ViewerController mvc = loader.getController();
         mvc.showMenu();
         Scene scene = new Scene(root);
+        stage.setFullScreenExitHint("");
         stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
@@ -241,6 +252,7 @@ public class SceneController{
 		Scale scale = new Scale(screenWidth/1920,screenHeight/1080);
 		root.getTransforms().add(scale);
 		scene = new Scene(root);
+		stage.setFullScreenExitHint("");
 		stage.setFullScreen(true);
 		stage.setScene(scene);
 		stage.show();
@@ -252,6 +264,7 @@ public class SceneController{
 		Scale scale = new Scale(screenWidth/1920,screenHeight/1080);
 		root.getTransforms().add(scale);
 		scene = new Scene(root);
+		stage.setFullScreenExitHint("");
 		stage.setFullScreen(true);
 		stage.setScene(scene);
 		stage.show();
@@ -266,6 +279,7 @@ public class SceneController{
 	    scale = new Scale(screenWidth/1920,screenHeight/1080);
 	    root.getTransforms().add(scale);
 	    scene = new Scene(root);
+	    stage.setFullScreenExitHint("");
 	    stage.setFullScreen(true);
 	    stage.setScene(scene);
 	    stage.show();

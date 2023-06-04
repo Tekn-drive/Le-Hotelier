@@ -22,6 +22,7 @@ public class Main extends Application {
 			root.getTransforms().add(scale);
 			Scene scene = new Scene(root);
 			primaryStage.setFullScreen(true);
+			primaryStage.setFullScreenExitHint("");
 			primaryStage.setScene(scene);
 			primaryStage.show();
 		} catch(Exception e) {
