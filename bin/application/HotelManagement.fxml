@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ViewerController">
+   <children>
+      <ImageView fx:id="hotelBack" fitHeight="1417.0" fitWidth="1992.0" layoutX="-39.0" layoutY="-39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Home%20Page.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="logo" fitHeight="197.0" fitWidth="486.0" layoutX="761.0" layoutY="44.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Le%20-%20Hotelier%20Managements.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="2054.0" layoutY="275.0" onMouseClicked="#home" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Hotel%20Management/Hotel%20Management.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="hotelBack" fitHeight="48.0" fitWidth="47.0" layoutX="1.0" layoutY="282.0" onMouseClicked="#home" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Vector.png" />
+         </image>
+      </ImageView>
+      <TableView fx:id="employeeTable" layoutX="554.0" layoutY="393.0" prefHeight="551.0" prefWidth="959.0">
+         <columns>
+            <TableColumn fx:id="employeeID" prefWidth="481.0" text="Employee's ID" />
+            <TableColumn fx:id="employeeName" minWidth="0.0" prefWidth="477.0" text="Employee's Name" />
+         </columns>
+         <stylesheets>
+            <URL value="@../../../../../eclipse-workspace/LeHotelier/style.css" />
+            <URL value="@resources/style.css" />
+         </stylesheets>
+      </TableView>
+      <Button fx:id="removeEmployee" layoutX="1115.0" layoutY="971.0" mnemonicParsing="false" onAction="#removeE" prefHeight="71.0" prefWidth="398.0" style="-fx-background-radius: 8; -fx-background-color: #0a6c6d;" textFill="#0a6c6d">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="addEmployee" layoutX="542.0" layoutY="971.0" mnemonicParsing="false" onAction="#AddEmployee" prefHeight="71.0" prefWidth="398.0" style="-fx-background-radius: 8; -fx-background-color: #0a6c6d;" textFill="#0a6c6d">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Label layoutX="1189.0" layoutY="983.0" text="Remove Employee" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="644.0" layoutY="983.0" text="Add Employee" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
