@@ -4,7 +4,7 @@
 Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
 
 - Hotel Management:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6acb1429-91d8-4b20-a121-139281b0b92a" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/d8c497f5-572f-4754-94d0-5646ce0a30f9" alt="Image" style="width: 50%;">
 
 - Restaurant Management:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/fa6a0fb8-0a64-439e-b8e4-a3c160776cc6" alt="Image" style="width: 50%;">
@@ -23,22 +23,22 @@ Hotel management is an option which can be used to manage the hotel in general. 
 ## Restaurant Management
 Restaurant management is an option which can be used to manage the hotel's restaurant. Here are the features which are available in this option:
 - Add Server/Chef: 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/b8fe99ab-3f8b-4e49-aebd-7a3fc4f4cad2" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/1740ec5a-f5d1-4a5c-991f-9a1a5e994bfc" alt="Image" style="width: 50%;">
 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/b06be93a-5092-4af7-bec1-1387ef5d2e9f" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6c72cbec-6d41-43d8-9294-a7b2605df3b0" alt="Image" style="width: 50%;">
 
 - View Order List:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/cb9893be-2ea4-4363-89e0-60177cee89ea" alt="Image" style="width: 50%;">
 
 - View Available Menu:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/55f00173-b0b3-4849-95b4-5d307774c891" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6c0f5fef-665d-4f35-a39d-4b2e83a3e37e" alt="Image" style="width: 50%;">
 
 ## Room Management
 Room management is an option which can be used to assign room to guests based on the room type they order. Here are the features which are available in this option:
 
 - Register Guest:
 - Checkout Guest
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/1df14953-e60d-438f-8fba-bca99144d931" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/f6ddf50a-1a9c-45e4-a6fd-b54901c00393" alt="Image" style="width: 50%;">
 
 ## Location Finder
 Location finder is an option to find all of the hotel's location/s.
@@ -96,7 +96,7 @@ Viewer Controller Class:
 
 ## Hotel Management
 1. You are greeted with this table view which displays the existing employees and 2 buttons which show the option to add and delete the employee:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6acb1429-91d8-4b20-a121-139281b0b92a" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/d8c497f5-572f-4754-94d0-5646ce0a30f9" alt="Image" style="width: 50%;"> 
 
 2. To add the employee, simply click the add button and then enter the employee's name if done just click the add button then back:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/b84e130c-8fef-4681-97f1-a78ce44d664d" alt="Image" style="width: 50%;"> 
@@ -106,7 +106,7 @@ Viewer Controller Class:
 ## Restaurant Management
 ### Chef
 1. You are greeted with this table view which displays the existing chefs and 2 buttons which show the option to add and delete the chef:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/ef9a8bb5-7489-4f02-9e0d-0918b634a9dd" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/1740ec5a-f5d1-4a5c-991f-9a1a5e994bfc" alt="Image" style="width: 50%;"> 
 
 2. To add the chef, simply click the add button and then enter the chef's name if done just click the add button then back:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/8056e545-583c-4cf2-83b8-4c007ace2681" alt="Image" style="width: 50%;"> 
@@ -115,9 +115,9 @@ Viewer Controller Class:
 
 ### Server
 1. You are greeted with this table view which displays the existing servers and 2 buttons which show the option to add and delete the server:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/f476f6e7-ab0e-4ef6-9d31-15bdfc78db50" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6c72cbec-6d41-43d8-9294-a7b2605df3b0" alt="Image" style="width: 50%;"> 
 
-2. To add the chef, simply click the add button and then enter the chef's name if done just click the add button then back:
+2. To add the server, simply click the add button and then enter the chef's name if done just click the add button then back:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/e84b2b33-b37b-4857-84c3-5940890b2333" alt="Image" style="width: 50%;"> 
 
 3. To delete, just click the server from the table view and click the delete button.
@@ -125,7 +125,7 @@ Viewer Controller Class:
 ### Menu
 To view the menu, you can just click the menu icon in the restaurant management menu, this will display all of the available menu:
 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/b512badd-0240-44c8-8d80-8db6afb9342e" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6c0f5fef-665d-4f35-a39d-4b2e83a3e37e" alt="Image" style="width: 50%;"> 
 
 ### Order
 To view/order orders, you can just click the order icon in the restaurant management menu, this will display all of the orders, but there are no orders right now:
@@ -138,7 +138,7 @@ To view/order orders, you can just click the order icon in the restaurant manage
 
 2. You are greeted with this table view which displays the existing guests and 2 buttons which show the option to add and delete the guest:
 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/538ea231-1d4a-4d84-b0fc-d9ce44ffdc42" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/2b538c16-9b7b-4581-937e-f624a6936a24" alt="Image" style="width: 50%;"> 
 
 3. To add the guest, simply click the add button and then enter all the necessary details (Note that for the room type, there are only 3 supported. Those being: Economy, Deluxe, and Business), if done just click the add button then back:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/852299e7-1682-45f0-b9a0-dd98adcb53da" alt="Image" style="width: 50%;"> 
