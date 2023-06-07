@@ -1,4 +1,3 @@
 EM-9219,Juan Arnold
 EM-0765,Austin Risdianto
 EM-9231,Daniel Widiasto Tandrambanua Ndraha
-EM-8732,Tesla
