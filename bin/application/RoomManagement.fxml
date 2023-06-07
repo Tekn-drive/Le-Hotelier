@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SceneController">
+   <children>
+      <ImageView fitHeight="1417.0" fitWidth="1992.0" layoutX="-21.0" layoutY="-3.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Home%20Page.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="2054.0" layoutX="-103.0" layoutY="275.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Room%20Management/Room%20Management.png" />
+         </image>
+      </ImageView>
+      <Group layoutX="714.0" layoutY="127.0" />
+      <ImageView fx:id="logo" fitHeight="197.0" fitWidth="486.0" layoutX="721.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Le%20-%20Hotelier%20Managements.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="backButton" fitHeight="48.0" fitWidth="47.0" layoutX="1.0" layoutY="282.0" onMouseClicked="#back" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Vector.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="guestMenu" fitHeight="447.0" fitWidth="607.0" layoutX="286.0" layoutY="463.0" onMouseClicked="#guest" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Room%20Management/Guest.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="roomMenu" fitHeight="447.0" fitWidth="607.0" layoutX="1083.0" layoutY="462.0" onMouseClicked="#room" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Room%20Management/Room.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

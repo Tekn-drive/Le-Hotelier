@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SceneController">
+   <children>
+      <ImageView fitHeight="1417.0" fitWidth="1992.0" layoutX="-21.0" layoutY="-3.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Home%20Page.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="778.0" layoutY="992.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="400.0" style="-fx-background-color: #0A6C6D; -fx-background-radius: 15;" />
+      <FontAwesomeIcon fx:id="userSettings" glyphName="GEAR" layoutX="1126.0" layoutY="1036.0" selectionFill="#cf1515" size="40" tabSize="0" wrappingWidth="30.800073242187523" />
+      <Label layoutX="811.0" layoutY="1007.0" text="Welcome," textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="899.0" layoutY="1007.0" text="User8572857" textFill="#001aff">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="locations" fitHeight="240.0" fitWidth="360.0" layoutX="1109.0" layoutY="675.0" onMouseClicked="#locationsView" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Location.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="room_management" fitHeight="240.0" fitWidth="360.0" layoutX="606.0" layoutY="675.0" onMouseClicked="#manageRooms" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Room.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="restaurant_management" fitHeight="240.0" fitWidth="360.0" layoutX="1104.0" layoutY="323.0" onMouseClicked="#manageRestaurant" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Resto.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="hotel_management" fitHeight="240.0" fitWidth="360.0" layoutX="606.0" layoutY="330.0" onMouseClicked="#manageHotel" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hotelier%20Iconpack/Home%20Page/Hotel.png" />
+         </image>
+      </ImageView>
+      <Group layoutX="714.0" layoutY="127.0">
+         <children>
+            <ImageView fitHeight="197.0" fitWidth="486.0" layoutX="25.0" layoutY="-7.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Hotelier%20Iconpack/Le%20-%20Hotelier%20Managements.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Group>
+   </children>
+</AnchorPane>
