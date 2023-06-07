@@ -141,7 +141,7 @@ To view/order orders, you can just click the order icon in the restaurant manage
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/33455aeb-c1e0-48bb-9b93-3890526324b4" alt="Image" style="width: 50%;">
 
 3. To add the guest, simply click the add button and then enter all the necessary details (Note that for the room type, there are only 3 supported. Those being: Economy, Deluxe, and Business), if done just click the add button then back:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/24cec698-9e0a-4213-9995-f5c7d758d13f" alt="Image" style="width: 50%;"> 
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/82f5075b-a3de-41ea-ad17-6226b17b7d4c" alt="Image" style="width: 50%;"> 
 
 4. To checkout a guest, just click the guest inside the table view and click the delete button.
 
