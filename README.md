@@ -28,10 +28,10 @@ Restaurant management is an option which can be used to manage the hotel's resta
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/5fdeedc3-09a0-4441-ae06-9898a542db65" alt="Image" style="width: 50%;">
 
 - View Order List:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/c4d48df3-c65b-4496-ba84-b987da54bc4e" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/797b1533-a23d-4e12-9a9b-3b63017a16bc" alt="Image" style="width: 50%;">
 
 - View Available Menu:
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/9d52945b-6ce3-47eb-a8ad-10c70cf64980" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/36ad5a0d-77b6-4247-8fbd-70281f4235d2" alt="Image" style="width: 50%;">
 
 ## Room Management
 Room management is an option which can be used to assign room to guests based on the room type they order. Here are the features which are available in this option:
@@ -125,12 +125,12 @@ Viewer Controller Class:
 ### Menu
 To view the menu, you can just click the menu icon in the restaurant management menu, this will display all of the available menu:
 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/9d52945b-6ce3-47eb-a8ad-10c70cf64980" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/36ad5a0d-77b6-4247-8fbd-70281f4235d2" alt="Image" style="width: 50%;">
 
 ### Order
 To view/order orders, you can just click the order icon in the restaurant management menu, this will display all of the orders, but there are no orders right now:
 
-<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/c4d48df3-c65b-4496-ba84-b987da54bc4e" alt="Image" style="width: 50%;">
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/797b1533-a23d-4e12-9a9b-3b63017a16bc" alt="Image" style="width: 50%;">
 
 ## Room Management
 1. You are greeted with these icons which display 2 options, those being Guest and Rooms. The Guest option is used to checkin and checkout guests, the Rooms option was planned to be able to see rooms which are empty and occupied but it is still under development, therefore let's focus to the Guest option:
