@@ -1,5 +1,7 @@
 # Le - Hotelier
-Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
+Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel.
+
+**In case, there is a display issue, set your screen to 1366 x 768 resolution**
 
 ## Installation Guide
 1. Install the latest version of JDK (preferably 20.0.1)
