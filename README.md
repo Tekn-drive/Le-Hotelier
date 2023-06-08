@@ -2,7 +2,7 @@
 Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
 
 ## Installation Guide
-1. Install the latest version of JDK (perferaby 20.0.1)
+1. Install the latest version of JDK (preferably 20.0.1)
 2. Install JavaFX (https://openjfx.io/), make sure that it's sdk matches with the JDK version. Further instruction in setting up javaFX can be found at (https://openjfx.io/openjfx-docs/) 
 4. Open the project in Eclipse
 5. Click "Build Path" -> "Configure Build Path"
