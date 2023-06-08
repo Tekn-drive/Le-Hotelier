@@ -1,6 +1,17 @@
 # Le - Hotelier
 Le Hotelier is a hotel management app which main design is focused on elegance. It has 4 options which can be used to manage the hotel. Those are:
 
+## Installation Guide
+1. Install the latest version of JDK (perferaby 20.0.1)
+2. Install JavaFX (https://openjfx.io/), make sure that it's sdk matches with the JDK version. Further instruction in setting up javaFX can be found at (https://openjfx.io/openjfx-docs/) 
+4. Open the project in Eclipse
+5. Click "Build Path" -> "Configure Build Path"
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/57680da5-4dbf-48a2-84da-17fa3f14bd41" alt="Image" style="width: 50%;">
+
+5. Don't forget to add the fontawesomefx-8.2.jar into the build path
+<img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/47614654-1441-4b1a-a3a2-a9a01a49e39a" alt="Image" style="width: 50%;">
+
+## Features
 - Hotel Management:
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/75ba90a1-9f21-4c50-9d1e-6486c610b466" alt="Image" style="width: 50%;">
 
