@@ -164,7 +164,9 @@ To view/order orders, you can just click the order icon in the restaurant manage
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/6a8bd99e-19c4-4b68-ad9b-9ad1de6f69e1" alt="Image" style="width: 50%;">
 
 
-
+## Figma Links
+PC App Figma : https://www.figma.com/file/UGWjOFskYIfyV5YgKWFOHa/Le---Hotelier-(PC)?type=design&node-id=0%3A1&t=UxKLHr0jCgOVvT11-1
+Mobile App Figma : https://www.figma.com/file/mjAjqQo0TmGdEb0rMiM0PI/Le---Hotelier?type=design&node-id=0%3A1&t=jDYpQpYVngQVpS7m-1
 
 
 
