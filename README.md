@@ -166,6 +166,7 @@ To view/order orders, you can just click the order icon in the restaurant manage
 
 ## Figma Links
 PC App Figma : https://www.figma.com/file/UGWjOFskYIfyV5YgKWFOHa/Le---Hotelier-(PC)?type=design&node-id=0%3A1&t=UxKLHr0jCgOVvT11-1
+
 Mobile App Figma : https://www.figma.com/file/mjAjqQo0TmGdEb0rMiM0PI/Le---Hotelier?type=design&node-id=0%3A1&t=jDYpQpYVngQVpS7m-1
 
 
