@@ -3,6 +3,8 @@ Le Hotelier is a hotel management app which main design is focused on elegance. 
 
 **In case, there is a display issue, set your screen to 1366 x 768 resolution**
 
+How to use this app: https://youtu.be/Rq_9APw-epQ
+
 ## Installation Guide
 1. Install JDK 20.0.1
 2. Install JavaFX (https://openjfx.io/), make sure that it's sdk matches with the JDK version. Further instruction in setting up javaFX can be found at (https://openjfx.io/openjfx-docs/) 
