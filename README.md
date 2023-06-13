@@ -7,7 +7,8 @@ How to use this app: https://youtu.be/Rq_9APw-epQ
 
 ## Installation Guide
 1. Install JDK 20.0.1
-2. Install JavaFX (https://openjfx.io/), make sure that it's sdk matches with the JDK version. Further instruction in setting up javaFX can be found at (https://openjfx.io/openjfx-docs/) 
+2. Configure Eclipse to use JDK 20.0.1
+3. Install JavaFX (https://openjfx.io/), make sure that it's sdk matches with the JDK version. Further instruction in setting up javaFX can be found at (https://openjfx.io/openjfx-docs/) 
 4. Open the project in Eclipse
 5. Click "Build Path" -> "Configure Build Path"
 <img src="https://github.com/Tekn-drive/Le-Hotelier/assets/89509753/57680da5-4dbf-48a2-84da-17fa3f14bd41" alt="Image" style="width: 50%;">
