@@ -170,4 +170,5 @@ PC App Figma : https://www.figma.com/file/UGWjOFskYIfyV5YgKWFOHa/Le---Hotelier-(
 Mobile App Figma : https://www.figma.com/file/mjAjqQo0TmGdEb0rMiM0PI/Le---Hotelier?type=design&node-id=0%3A1&t=jDYpQpYVngQVpS7m-1
 
 
-
+## Notion
+Notion Link : https://crocus-tulip-ff6.notion.site/Le-Hotelier-ac8b2f9827d34543822a4f84df22a8af
